@@ -1,0 +1,14 @@
+C:\Users\atoro\source\repos\Taxis\Taxis\bin\Debug\net6.0\Taxis.exe
+C:\Users\atoro\source\repos\Taxis\Taxis\bin\Debug\net6.0\Taxis.deps.json
+C:\Users\atoro\source\repos\Taxis\Taxis\bin\Debug\net6.0\Taxis.runtimeconfig.json
+C:\Users\atoro\source\repos\Taxis\Taxis\bin\Debug\net6.0\Taxis.dll
+C:\Users\atoro\source\repos\Taxis\Taxis\bin\Debug\net6.0\Taxis.pdb
+C:\Users\atoro\source\repos\Taxis\Taxis\obj\Debug\net6.0\Taxis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atoro\source\repos\Taxis\Taxis\obj\Debug\net6.0\Taxis.AssemblyInfoInputs.cache
+C:\Users\atoro\source\repos\Taxis\Taxis\obj\Debug\net6.0\Taxis.AssemblyInfo.cs
+C:\Users\atoro\source\repos\Taxis\Taxis\obj\Debug\net6.0\Taxis.csproj.CoreCompileInputs.cache
+C:\Users\atoro\source\repos\Taxis\Taxis\obj\Debug\net6.0\Taxis.dll
+C:\Users\atoro\source\repos\Taxis\Taxis\obj\Debug\net6.0\refint\Taxis.dll
+C:\Users\atoro\source\repos\Taxis\Taxis\obj\Debug\net6.0\Taxis.pdb
+C:\Users\atoro\source\repos\Taxis\Taxis\obj\Debug\net6.0\Taxis.genruntimeconfig.cache
+C:\Users\atoro\source\repos\Taxis\Taxis\obj\Debug\net6.0\ref\Taxis.dll

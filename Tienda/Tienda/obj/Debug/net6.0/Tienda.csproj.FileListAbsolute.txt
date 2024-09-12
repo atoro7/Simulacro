@@ -1,0 +1,14 @@
+C:\Users\atoro\source\repos\Tienda\Tienda\bin\Debug\net6.0\Tienda.exe
+C:\Users\atoro\source\repos\Tienda\Tienda\bin\Debug\net6.0\Tienda.deps.json
+C:\Users\atoro\source\repos\Tienda\Tienda\bin\Debug\net6.0\Tienda.runtimeconfig.json
+C:\Users\atoro\source\repos\Tienda\Tienda\bin\Debug\net6.0\Tienda.dll
+C:\Users\atoro\source\repos\Tienda\Tienda\bin\Debug\net6.0\Tienda.pdb
+C:\Users\atoro\source\repos\Tienda\Tienda\obj\Debug\net6.0\Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atoro\source\repos\Tienda\Tienda\obj\Debug\net6.0\Tienda.AssemblyInfoInputs.cache
+C:\Users\atoro\source\repos\Tienda\Tienda\obj\Debug\net6.0\Tienda.AssemblyInfo.cs
+C:\Users\atoro\source\repos\Tienda\Tienda\obj\Debug\net6.0\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\atoro\source\repos\Tienda\Tienda\obj\Debug\net6.0\Tienda.dll
+C:\Users\atoro\source\repos\Tienda\Tienda\obj\Debug\net6.0\refint\Tienda.dll
+C:\Users\atoro\source\repos\Tienda\Tienda\obj\Debug\net6.0\Tienda.pdb
+C:\Users\atoro\source\repos\Tienda\Tienda\obj\Debug\net6.0\Tienda.genruntimeconfig.cache
+C:\Users\atoro\source\repos\Tienda\Tienda\obj\Debug\net6.0\ref\Tienda.dll
